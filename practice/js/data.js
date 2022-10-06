@@ -218,8 +218,6 @@ const qnaList = [
   },
 ];
 
-const json = JSON.stringify(qnaList);
-console.log(json);
 const infoList = [
   {
     name: '연애 뭐 식은 죽 먹기죠, 연애 재능 만땅 <쥐>',

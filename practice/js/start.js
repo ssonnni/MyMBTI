@@ -124,5 +124,5 @@ function begin() {
     }, 500);
     let qIdx = 0;
     goNext(qIdx);
-  }, 500);
+  }, 500)
 }
