@@ -1,7 +1,6 @@
 # MyMBTI
 ### https://velog.io/@ssonnni/myMBTI-테스트-만들어보기
 
-판다코딩의 HTML/JS/CSS로 나만의 MBTI 사이트 만들기 강의를 보고 만들었습니다.
 
 # 01. HTML
 ### 각 3개의 섹션 레이아웃하기
